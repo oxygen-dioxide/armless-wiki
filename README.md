@@ -17,30 +17,48 @@
 
 |名称|账号|内容领域|
 |-|-|-|
-|大脚修表匠|[B站](https://space.bilibili.com/3493082330827171) [抖音](https://www.douyin.com/user/MS4wLjABAAAAPSr91YdQ_p3LdKi5lo10vDrKM6clLkahRhUOuK9Vse0?from_tab_name=main&relation=0&vid=7160289082571017506)|手表维修|
-|代言|[B站](https://space.bilibili.com/3546664398751916)|烹饪|
-|雷庆瑶|[B站](https://space.bilibili.com/523990231) [抖音](https://www.douyin.com/user/MS4wLjABAAAArBOZL2YdL4l9YQV-ejnSkf3KWO-dUf7KItq3FFSW7TI?from_tab_name=main)|美妆|
-|李增星|[抖音](https://www.douyin.com/user/MS4wLjABAAAAmFHTzZ5VPQarDNTeQTO1oEYwZqV-0PBt5ldKd9jlSxzCQWK7ePmIKU_1TsuGYzbt?from_tab_name=main)||
-|廖玉婷|[抖音](https://www.douyin.com/user/MS4wLjABAAAAz-2-eV8GVh4sLvbRNKpj5UKBcnLV5JAIq3kaFm0WtcM?from_tab_name=main)||
-|刘涛|[B站](https://space.bilibili.com/620190027)  [抖音](https://www.douyin.com/user/MS4wLjABAAAA8VL_yQBaUDUPAGRYc7rOpLxFfX58ORuyPi5eS3JyrmM?from_tab_name=main)|音乐（吉他、声乐）、烹饪|
-|刘伟|[抖音](https://www.douyin.com/user/MS4wLjABAAAAD8AE9pXItAVnhduGqGw7jdCrPb_3Hk47kYhyISnRE_4?from_tab_name=main)|音乐（钢琴）|
-|卢冬|[抖音](https://www.douyin.com/user/MS4wLjABAAAASp1xLIlfGhsm5S52b2MEc7WLizrgrOrtyw0W1XFc6JY?from_tab_name=main)|运动（游泳）、音乐（钢琴）|
+|陈英|[抖音](https://www.douyin.com/user/MS4wLjABAAAArng5dNFrz8Pk99EhRW_xJvGTk3GY4hPoMcerhm4dkA8)|农业|
+|陈兹方|[抖音](https://www.douyin.com/user/MS4wLjABAAAAQXp68lq5Gt_3DfzF1hK75thmWhIWp62z4Mi7wSfyXJ3Cgz0V6SRS8RlPuJF2Pdum)||
+|代平英|[B站](https://space.bilibili.com/3546664398751916) [抖音](https://www.douyin.com/user/MS4wLjABAAAAzJrR9wLQnlYE9bf16pfI-41tWFJqlT4zafkTwAkzm2AydMo8wvHCF-h-cZClDn8C&modal_id=7511285306584157492)|烹饪、毛衣编织|
+|韩丹|[抖音](https://www.douyin.com/user/MS4wLjABAAAAUjdbC8OtIIbIzIm0DRwVev39bipz6eZu9BpRw6DnyOc)||
+|雷庆瑶|[B站](https://space.bilibili.com/523990231) [抖音](https://www.douyin.com/user/MS4wLjABAAAArBOZL2YdL4l9YQV-ejnSkf3KWO-dUf7KItq3FFSW7TI) [快手](https://www.kuaishou.com/profile/3x3mnhyv5fbhj52)|美妆|
+|李普淇|[抖音](https://www.douyin.com/user/MS4wLjABAAAAO0lzj0EVM7QxQETxSnOHF2wWkE2yTK7p3Pkz-97mnT7zdkKBiv7x_FzP1y6ecA5v)||
+|李增星|[抖音](https://www.douyin.com/user/MS4wLjABAAAAmFHTzZ5VPQarDNTeQTO1oEYwZqV-0PBt5ldKd9jlSxzCQWK7ePmIKU_1TsuGYzbt)|农业|
+|廖玉婷|[抖音](https://www.douyin.com/user/MS4wLjABAAAAz-2-eV8GVh4sLvbRNKpj5UKBcnLV5JAIq3kaFm0WtcM) [快手](https://www.kuaishou.com/profile/3xc8ehvbvbai5ra)||
+|刘能|[抖音](https://www.douyin.com/user/MS4wLjABAAAAHAjjzPu_xtT_yRL_De6hYnJ3L9Xa9pjz6YO-DXvF48o)|毛笔书法|
+|刘涛|[B站](https://space.bilibili.com/620190027) [抖音](https://www.douyin.com/user/MS4wLjABAAAA8VL_yQBaUDUPAGRYc7rOpLxFfX58ORuyPi5eS3JyrmM)|音乐（吉他、声乐）、烹饪|
+|刘伟|[抖音](https://www.douyin.com/user/MS4wLjABAAAAD8AE9pXItAVnhduGqGw7jdCrPb_3Hk47kYhyISnRE_4)|音乐（钢琴）|
+|卢冬|[抖音](https://www.douyin.com/user/MS4wLjABAAAASp1xLIlfGhsm5S52b2MEc7WLizrgrOrtyw0W1XFc6JY)|运动（游泳）、音乐（钢琴）、游戏（王者荣耀、绝地求生）|
+|罗凤枝|[抖音](https://www.douyin.com/user/MS4wLjABAAAA-tMPC4Ro0TtIYiRX3UmINFMsI3DInD8p0k_7VXXlwLQ)|烹饪|
+|罗小小|[抖音](https://www.douyin.com/user/MS4wLjABAAAAR5kPtqQ-GXJScQPhBj-I7tteiGEj4a0aUdjMj699xZKQ-4W2DG2KeL3rnao9kkZ9)||
 |明利|[B站](https://space.bilibili.com/383810009)|游戏（穿越火线）|
-|彭超|[抖音](https://www.douyin.com/user/MS4wLjABAAAAHuMya-oh5FGxO3qt0XkWChDCL3NXKCKNOSjWVBVVCkiySjyv-oepD6Eny6mewe_s?from_tab_name=main)||
-|瑞瑞与爸爸|[B站](https://space.bilibili.com/3546660569353099) [抖音](https://www.douyin.com/user/MS4wLjABAAAAaXSkrUwZe4TL6Zude1z1-T3teb6fbjYJQKDRC-a1KTucuQs4OR0PbA6hoSVdbw8_?from_tab_name=main)||
-|唐杨|[B站](https://space.bilibili.com/513178955) [抖音](https://www.douyin.com/user/MS4wLjABAAAAq7RVuZFv1vqKAIvWudrzXE9rOnqkajOMrp-AkCQkvrL94_4xb-wS7SuixeGLdO56?from_tab_name=main)|徒步旅行、运动（游泳）|
+|彭超|[抖音](https://www.douyin.com/user/MS4wLjABAAAAHuMya-oh5FGxO3qt0XkWChDCL3NXKCKNOSjWVBVVCkiySjyv-oepD6Eny6mewe_s)||
+|瑞瑞与爸爸|[B站](https://space.bilibili.com/3546660569353099) [抖音](https://www.douyin.com/user/MS4wLjABAAAAaXSkrUwZe4TL6Zude1z1-T3teb6fbjYJQKDRC-a1KTucuQs4OR0PbA6hoSVdbw8_)||
+|唐杨|[B站](https://space.bilibili.com/513178955) [抖音](https://www.douyin.com/user/MS4wLjABAAAAq7RVuZFv1vqKAIvWudrzXE9rOnqkajOMrp-AkCQkvrL94_4xb-wS7SuixeGLdO56)|徒步旅行、运动（游泳）|
+|王海港|[抖音](https://www.douyin.com/user/MS4wLjABAAAAedD7cw_ZU5IW7OPDTyJzuk8mbiQ3ox1dQXdMkxejyK4) [ORCID](https://orcid.org/0009-0004-8905-4490)||
+|王建海|[B站](https://space.bilibili.com/3493082330827171) [抖音](https://www.douyin.com/user/MS4wLjABAAAAPSr91YdQ_p3LdKi5lo10vDrKM6clLkahRhUOuK9Vse0&relation=0&vid=7160289082571017506) [快手](https://www.kuaishou.com/profile/3xm84dvezgfkwu4)|手表维修|
+|夏虹|[抖音](https://www.douyin.com/user/MS4wLjABAAAA1K3Akr7eQczigTsfS09lMF7XZIFwyj7ktW-X2sI5tEk)|剪纸|
 |星航的复健日记|[B站](https://space.bilibili.com/3546757868816589)||
-|杨莉|[抖音](https://www.douyin.com/user/MS4wLjABAAAAznbcVVKzgQ-hjDg7P-HXB2XeymYkUeeR4S8OmojlKaKyWxmvTjuwfCQiokeAHl2F?from_tab_name=main)||
-|杨孟衡|[抖音](https://www.douyin.com/user/MS4wLjABAAAA_98HXC4yx8G-VmlGUpUePDf8Ldluh8oZv6ZaWGbm4Vk?from_tab_name=main)||
-|杨佩|[抖音](https://www.douyin.com/user/MS4wLjABAAAA6bM5i_A7wfkAFYwxox5oaphzazkpO5rrQ-78a6PnwYg?from_tab_name=main)||
+|杨莉|[抖音](https://www.douyin.com/user/MS4wLjABAAAAznbcVVKzgQ-hjDg7P-HXB2XeymYkUeeR4S8OmojlKaKyWxmvTjuwfCQiokeAHl2F) [快手](https://www.kuaishou.com/profile/3xbtdzur4fx3wfy)||
+|杨孟衡|[抖音](https://www.douyin.com/user/MS4wLjABAAAA_98HXC4yx8G-VmlGUpUePDf8Ldluh8oZv6ZaWGbm4Vk) [快手](https://www.kuaishou.com/profile/3x5iby3azizip7q)|英语教育|
+|杨佩|[抖音](https://www.douyin.com/user/MS4wLjABAAAA6bM5i_A7wfkAFYwxox5oaphzazkpO5rrQ-78a6PnwYg) [快手](https://www.kuaishou.com/profile/3xv3wgpzyx2pak9)||
+|杨喜凤|[抖音](https://www.douyin.com/user/MS4wLjABAAAAsHoMM74w1JtnbcV1RKzl7cMtWPHKKe170IciNtLocH4)||
+|赵钦忠|[抖音](https://www.douyin.com/user/MS4wLjABAAAAXwBLf7nudum5TeaKMtEO29zuLzXqvk7PF1QrRnZWf7F6J_NO1wBZKC6JYWO-RFoJ)|摩托车驾驶|
+|CF无臂沐阳|[抖音](https://www.douyin.com/user/MS4wLjABAAAAYGS91Qv2zaYwkjFSxI5YlPMg__-w9h4WaVhwhYgCa4s)|游戏（穿越火线）|
 
 ## 英文自媒体
 |名称|账号|内容领域|
 |-|-|-|
 |Jessica Cox|[Youtube](https://www.youtube.com/@jessicacox)|飞机驾驶|
+|MeSophi|[Youtube](https://www.youtube.com/@MeSophi)||
+|Noah Matthew Howard|[Youtube](https://www.youtube.com/@armlessart)|绘画|
+|Sahar Khan|[Youtube](https://www.youtube.com/@SaharKhanCyborgGirl)|
+|Tilly Lockey|[Youtube](https://www.youtube.com/@tilly.lockey)|仿生机械手、音乐（声乐）|
 |Tisha|[Youtube](https://www.youtube.com/@tishaunarmed)|绘画、汽车驾驶|
 
 ## 其他语言
 |名称|账号|内容领域|
 |-|-|-|
-|Adriana Macias|[Youtube](https://www.youtube.com/c/AdrianaMac%C3%ADas)||
+|Adriana Macias|[Youtube](https://www.youtube.com/c/AdrianaMac%C3%ADas)|音乐（大提琴）|
+|Bartosz Ostałowski|[Youtube](https://www.youtube.com/@BartoszOstalowski)|赛车|
+|Sarah Talbi|[Youtube](https://www.youtube.com/@SarahTalbi2309)||
