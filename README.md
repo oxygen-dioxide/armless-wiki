@@ -63,3 +63,4 @@
 |Adriana Macias|[Youtube](https://www.youtube.com/c/AdrianaMac%C3%ADas)|音乐（大提琴）|
 |Bartosz Ostałowski|[Youtube](https://www.youtube.com/@BartoszOstalowski)|赛车|
 |Sarah Talbi|[Youtube](https://www.youtube.com/@SarahTalbi2309)||
+|Simona Atzori|[Youtube](https://www.youtube.com/@simonaatzori408)||
