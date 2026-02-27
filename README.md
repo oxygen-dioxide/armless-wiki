@@ -53,7 +53,8 @@
 |Jessica Cox|[Youtube](https://www.youtube.com/@jessicacox)|飞机驾驶|
 |MeSophi|[Youtube](https://www.youtube.com/@MeSophi)||
 |Noah Matthew Howard|[Youtube](https://www.youtube.com/@armlessart)|绘画|
-|Sahar Khan|[Youtube](https://www.youtube.com/@SaharKhanCyborgGirl)|
+|Sahar Khan|[Youtube](https://www.youtube.com/@SaharKhanCyborgGirl)||
+|Sarah Talbi|[Youtube](https://www.youtube.com/@SarahTalbi2309)||
 |Tilly Lockey|[Youtube](https://www.youtube.com/@tilly.lockey)|仿生机械手、音乐（声乐）|
 |Tisha|[Youtube](https://www.youtube.com/@tishaunarmed)|绘画、汽车驾驶|
 
@@ -62,5 +63,4 @@
 |-|-|-|
 |Adriana Macias|[Youtube](https://www.youtube.com/c/AdrianaMac%C3%ADas)|音乐（大提琴）|
 |Bartosz Ostałowski|[Youtube](https://www.youtube.com/@BartoszOstalowski)|赛车|
-|Sarah Talbi|[Youtube](https://www.youtube.com/@SarahTalbi2309)||
 |Simona Atzori|[Youtube](https://www.youtube.com/@simonaatzori408)||
