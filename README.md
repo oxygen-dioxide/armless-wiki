@@ -57,6 +57,7 @@
 |Sarah Talbi|[Youtube](https://www.youtube.com/@SarahTalbi2309)||
 |Tilly Lockey|[Youtube](https://www.youtube.com/@tilly.lockey)|仿生机械手、音乐（声乐）|
 |Tisha|[Youtube](https://www.youtube.com/@tishaunarmed)|绘画、汽车驾驶|
+|王争|[Weebly](https://zhengwang.weebly.com/)|经济学|
 
 ## 其他语言
 |名称|账号|内容领域|
