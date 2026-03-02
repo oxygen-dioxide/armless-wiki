@@ -50,7 +50,10 @@
 ## 英文自媒体
 |名称|账号|内容领域|
 |-|-|-|
+|Its Kashmiere|[Youtube](https://www.youtube.com/@itskashmiere)||
+|Jacqueline Lopez|[Youtube](https://www.youtube.com/@minjacks)||
 |Jessica Cox|[Youtube](https://www.youtube.com/@jessicacox)|飞机驾驶|
+||||
 |MeSophi|[Youtube](https://www.youtube.com/@MeSophi)||
 |Noah Matthew Howard|[Youtube](https://www.youtube.com/@armlessart)|绘画|
 |Sahar Khan|[Youtube](https://www.youtube.com/@SaharKhanCyborgGirl)||
