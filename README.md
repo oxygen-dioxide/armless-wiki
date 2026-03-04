@@ -34,6 +34,7 @@
 |明利|[B站](https://space.bilibili.com/383810009)|游戏（穿越火线）|
 |彭超|[抖音](https://www.douyin.com/user/MS4wLjABAAAAHuMya-oh5FGxO3qt0XkWChDCL3NXKCKNOSjWVBVVCkiySjyv-oepD6Eny6mewe_s)||
 |瑞瑞与爸爸|[B站](https://space.bilibili.com/3546660569353099) [抖音](https://www.douyin.com/user/MS4wLjABAAAAaXSkrUwZe4TL6Zude1z1-T3teb6fbjYJQKDRC-a1KTucuQs4OR0PbA6hoSVdbw8_)||
+|汤展中|[抖音](https://www.douyin.com/user/MS4wLjABAAAAxG_gTYW47j2WGh8lDY_48KXHB6RSv4PowCG51xtD-Tjfp7REWnSM6FNki1gXMYWG)|书法|
 |唐杨|[B站](https://space.bilibili.com/513178955) [抖音](https://www.douyin.com/user/MS4wLjABAAAAq7RVuZFv1vqKAIvWudrzXE9rOnqkajOMrp-AkCQkvrL94_4xb-wS7SuixeGLdO56)|徒步旅行、运动（游泳）|
 |王海港|[B站](https://space.bilibili.com/269438497) [抖音](https://www.douyin.com/user/MS4wLjABAAAAedD7cw_ZU5IW7OPDTyJzuk8mbiQ3ox1dQXdMkxejyK4) [ORCID](https://orcid.org/0009-0004-8905-4490)|量子计算|
 |王建海|[B站](https://space.bilibili.com/3493082330827171) [抖音](https://www.douyin.com/user/MS4wLjABAAAAPSr91YdQ_p3LdKi5lo10vDrKM6clLkahRhUOuK9Vse0&relation=0&vid=7160289082571017506) [快手](https://www.kuaishou.com/profile/3xm84dvezgfkwu4)|手表维修|
